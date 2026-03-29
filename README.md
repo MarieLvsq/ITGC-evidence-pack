@@ -1,4 +1,4 @@
-# ITGC Evidence Pack (Workpaper-Quality) — Portfolio
+# ITGC Evidence Pack (Workpaper-Quality)
 
 This repository is a **workpaper-quality ITGC evidence pack** designed to demonstrate practical capability in:
 - IT General Controls (ITGC) testing
