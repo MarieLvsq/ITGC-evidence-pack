@@ -6,9 +6,6 @@ This repository is a **workpaper-quality ITGC evidence pack** designed to demons
 - Findings and remediation tracking
 - Audit-ready reporting structure
 
-> Goal: Walk into a Technology Risk / ITGC interview and say:  
-> **“Here’s how I test controls and document evidence.”**
-
 ---
 
 ## Navigation
@@ -37,5 +34,5 @@ This repository is a **workpaper-quality ITGC evidence pack** designed to demons
 ---
 
 ## Notes
-- All content is **sanitized and fictionalized** for portfolio purposes.
+- All content is **sanitised and fictionalised** for portfolio purposes.
 - The structure mirrors common audit workpaper conventions used in regulated environments.
